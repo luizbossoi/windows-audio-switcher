@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/27 21:06:58.000.394,C:\Users\luizbossoi\Desktop\VolumeControlDemoSource\MMDevAPI.pas=</Transaction>
+    <Transaction>2020/02/28 13:45:58.000.638,=C:\Users\luizbossoi\Desktop\VolumeControlDemoSource\New1.manifest</Transaction>
+    <Transaction>2020/02/28 20:02:21.636,C:\Users\luizbossoi\Desktop\VolumeControlDemoSource\U_WindowsAudioSwitcher.pas=C:\Users\luizbossoi\Desktop\VolumeControlDemoSource\U_VolumeControlDemo.pas</Transaction>
+    <Transaction>2020/02/28 20:02:21.636,C:\Users\luizbossoi\Desktop\VolumeControlDemoSource\U_WindowsAudioSwitcher.dfm=C:\Users\luizbossoi\Desktop\VolumeControlDemoSource\U_VolumeControlDemo.dfm</Transaction>
+    <Transaction>2020/02/28 20:02:44.376,C:\Users\luizbossoi\Desktop\VolumeControlDemoSource\src\WindowsAudioSwitcher.dproj=C:\Users\luizbossoi\Desktop\VolumeControlDemoSource\VolumeControlDemo.dproj</Transaction>
+  </Transactions>  <BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
