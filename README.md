@@ -15,7 +15,7 @@ After that, open the process you want to make it switch, for example, open PUBG 
 # How does it work?
 When you start to use the specified process (on foreground), this software will get this information and switch the default audio output for you.
 
-![application main screen](https://raw.githubusercontent.com/luizbossoi/windows-audio-switcher/master/images/image1.png)
+![application main screen](https://raw.githubusercontent.com/luizbossoi/windows-audio-switcher/master/images/image1.png?1234)
 
 # Does it work on background or start on boot?
 You can configure it to start on boot, just tick the box "Start on Boot".
