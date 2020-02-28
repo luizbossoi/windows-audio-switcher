@@ -5,7 +5,7 @@ One of many cases of use: you have two (or more) audio output devices on Windows
 You can configure a set of processes that you wish to change automaticaly the audio output for you and when you're not using those processes, your audio output will be set as default back again.
 
 
-# How to use
+## How to use
 You can find two .EXE files inside /bin/ folder, you have to open 'WindowsAudioSwitcher.exe'.
 
 The other .EXE named EndPointController.exe is an additional software to make this audio switcher work. After opening "WindowsAudioSwitcher.exe", select your default ouput audio.
@@ -30,3 +30,6 @@ This software is needed to make this application to work, it does the magic behi
 This "EndPointController.exe" source can be found here: https://github.com/DanStevens/AudioEndPointController
 
 This file MUST reside on the same path as this application .EXE.
+
+
+Tested on Windows 10, only
