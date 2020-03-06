@@ -1,11 +1,10 @@
 
 # Windows Audio Switcher
 ## --- DISCONTINUED ---
-For a newer version, please check: https://github.com/luizbossoi/windows-audio-switcher-complete
-*
-*
+For a newer version, please check: https://github.com/luizbossoi/windows-audio-switcher-standalone
+
 -----------------------------------
-##
+## ..
 This software was made to help users switching the default output audio device on Windows based on the working process.
 One of many cases of use: you have two (or more) audio output devices on Windows, a desktop audio speakers and a headset. You're the kind of person that likes to hear music on your computer using your desktop desk speakers, but sometimes you like to play games using your headset. Everytime you need to change your audio output, and that's what this application does!
 You can configure a set of processes that you wish to change automaticaly the audio output for you and when you're not using those processes, your audio output will be set as default back again.
